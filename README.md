@@ -1,2 +1,1 @@
-# Tên đề tài
-ảnh
+# Flatlist movie với React native
